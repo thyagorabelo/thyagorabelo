@@ -5,6 +5,11 @@
 ## 👨‍💻 Perfil Técnico
 - 🏫 **Acadêmico:** Graduando em Tecnologia da Informação pela **UFRN**.
 - 🛠️ **Foco Atual:** Implementação de algoritmos e estruturas de dados em **C/C++** e desenvolvimento de lógica backend.
+
+ ### Linguagens que domino:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
   
 ---
 ## 🚀 Especialidades e Conhecimentos
@@ -17,16 +22,5 @@
 ### ⚙️ Paradigmas
 - **POP:** Desenvolvimento procedural utilizando **C**.
 - **POO:** Desenvolvimento orientado a objetos utilizando **C++**.
-
----
-
-## 🛠️ Stack Tecnológica
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `C`, `C++`, `Python` |
-| **Paradigmas** | `Orientação a Objetos (C++)`, `Programação Estruturada (C)` |
-| **Backend** | `Sistemas de Arquivos`, `Gerenciamento de Memória`|
-| **Ferramentas** | `Git`, `GitHub`, `Linux/Windows 11`, `VS Code` |
 
 ---
