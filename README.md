@@ -5,7 +5,7 @@
 ## 👨‍💻 Perfil Técnico
 - 🏫 **Acadêmico:** Graduando em Tecnologia da Informação pela **UFRN**.
 - 🛠️ **Foco Atual:** Implementação de algoritmos e estruturas de dados em **C/C++** e desenvolvimento de lógica backend.
-- 
+  
 ---
 ## 🚀 Especialidades e Conhecimentos
 
