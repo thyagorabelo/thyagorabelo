@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thyago Rabelo!
 
-<!--
-**thyagorabelo/thyagorabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Backend
+---
+## 👨‍💻 Perfil Técnico
+- 🏫 **Acadêmico:** Graduando em Tecnologia da Informação pela **UFRN**.
+- 🛠️ **Foco Atual:** Implementação de algoritmos e estruturas de dados em **C/C++** e desenvolvimento de lógica backend.
+- 
+---
+## 🚀 Especialidades e Conhecimentos
 
-Here are some ideas to get you started:
+### 🧠 Lógica e Estrutura de Dados
+- **Domínio de Linguagens:** Lógica de programação sólida em **Python** e **C**.
+- **Data Structures:** Implementação nativa de pilhas, filas, listas sequencias e encadeadas, deques e tabelas hash em **C e C++**.
+- **Arquitetura:** Domínio no gerenciamento de memória dinâmica com ponteiros e na implementação de projetos modularizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Paradigmas
+- **POP:** Desenvolvimento procedural utilizando **C**.
+- **POO:** Desenvolvimento orientado a objetos utilizando **C++**.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `C`, `C++`, `Python` |
+| **Paradigmas** | `Orientação a Objetos (C++)`, `Programação Estruturada (C)` |
+| **Backend** | `Sistemas de Arquivos`, `Gerenciamento de Memória`, `API Logic` |
+| **Ferramentas** | `Git`, `GitHub`, `Linux/Windows 11`, `VS Code` |
+
+---
