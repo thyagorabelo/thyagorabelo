@@ -15,8 +15,8 @@
 ## 🚀 Especialidades e Conhecimentos
 
 ### 🧠 Lógica e Estrutura de Dados
-- **Domínio de Linguagens:** Lógica de programação sólida em **Python** e **C**.
-- **Data Structures:** Implementação nativa de pilhas, filas, listas sequencias e encadeadas, deques e tabelas hash em **C e C++**.
+- **Domínio de Linguagens:** Lógica de programação sólida em **Python**, **C** e **C++**.
+- **Estrutura de Dados:** Implementação nativa de pilhas, filas, listas sequencias e encadeadas, deques e tabelas hash em **C e C++**.
 - **Arquitetura:** Domínio no gerenciamento de memória dinâmica com ponteiros e na implementação de projetos modularizados.
 
 ### ⚙️ Paradigmas
