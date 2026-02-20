@@ -26,7 +26,7 @@
 | :--- | :--- |
 | **Linguagens** | `C`, `C++`, `Python` |
 | **Paradigmas** | `Orientação a Objetos (C++)`, `Programação Estruturada (C)` |
-| **Backend** | `Sistemas de Arquivos`, `Gerenciamento de Memória`, `API Logic` |
+| **Backend** | `Sistemas de Arquivos`, `Gerenciamento de Memória`|
 | **Ferramentas** | `Git`, `GitHub`, `Linux/Windows 11`, `VS Code` |
 
 ---
