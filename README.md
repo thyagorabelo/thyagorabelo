@@ -3,7 +3,7 @@
 ###  Backend Developer
 ---
 ## 👨‍💻 Technical Profile
-- 🏫 **Academic:** B.S. in Information Technology at **UFRN** (Federal University of Rio Grande do Norte de).
+- 🏫 **Academic:** B.S. in Information Technology at **UFRN** (Federal University of Rio Grande do Norte).
 - 🛠️ **Current Focus:** Implementation of algorithms and data structures in **C/C++,** **Python** and backend logic development.
 
  ### Languages & Technologies I work with:
