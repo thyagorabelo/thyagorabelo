@@ -1,26 +1,34 @@
-# 👋 Olá, eu sou o Thyago Rabelo!
+# 👋 Hi there!! Im' Thyago Rabelo!
 
-### Desenvolvedor Backend
+###  Backend Developer
 ---
-## 👨‍💻 Perfil Técnico
-- 🏫 **Acadêmico:** Graduando em Tecnologia da Informação pela **UFRN**.
-- 🛠️ **Foco Atual:** Implementação de algoritmos e estruturas de dados em **C/C++** e desenvolvimento de lógica backend.
+## 👨‍💻 Technical Profile
+- 🏫 **Academic:** B.S. in Information Technology at **UFRN** (Federal University of Rio Grande do Norte de).
+- 🛠️ **Current Focus:** Implementation of algorithms and data structures in **C/C++,** **Python** and backend logic development.
 
- ### Linguagens que domino:
+ ### Languages & Technologies I work with:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 ---
-## 🚀 Especialidades e Conhecimentos
+## 🚀 Specialties & Knowledge
 
-### 🧠 Lógica e Estrutura de Dados
-- **Domínio de Linguagens:** Lógica de programação sólida em **Python**, **C** e **C++**.
-- **Estrutura de Dados:** Implementação nativa de pilhas, filas, listas sequencias e encadeadas, deques e tabelas hash em **C e C++**.
-- **Arquitetura:** Domínio no gerenciamento de memória dinâmica com ponteiros e na implementação de projetos modularizados.
-
+### 🧠Logic and Data Structures
+- **Language Proficiency:** Solid programming logic in **Python**, **C**, and **C++**.
+- **Data Structures**: Native implementation of stacks, queues, sequential and linked lists, deques, and hash tables in **C/C++**.
+- **Architecture**: Expertise in dynamic memory management using pointers and modularized project implementation.
 ### ⚙️ Paradigmas
-- **POP:** Desenvolvimento procedural utilizando **C**.
-- **POO:** Desenvolvimento orientado a objetos utilizando **C++**.
+- **POP**: Procedural Programming using C and **Python**.
+- **OOP**: Object-Oriented Programming using **C++**.
+
+## 🛠️ Version Control & Workflow
+
+## Git & GitHub
+- **Branching Strategy:** Branching Strategy: Knowledge of feature branching and collaborative development.
+- **Version Control**: Proficiency in commit, push, pull, merge, and rebase operations.
+- **Repository Management**: Experience with remote repository synchronization and .gitignore configuration.
 
 ---
