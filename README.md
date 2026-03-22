@@ -16,7 +16,7 @@
 ---
 ## 🚀 Specialties & Knowledge
 
-### 🧠Logic and Data Structures
+### 🧠 Logic and Data Structures
 - **Language Proficiency:** Solid programming logic in **Python**, **C**, and **C++**.
 - **Data Structures**: Native implementation of stacks, queues, sequential and linked lists, deques, and hash tables in **C/C++**.
 - **Architecture**: Expertise in dynamic memory management using pointers and modularized project implementation.
